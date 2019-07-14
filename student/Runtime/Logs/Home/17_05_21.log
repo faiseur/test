@@ -1,0 +1,21 @@
+[ 2017-05-21T13:08:26+08:00 ] ::1 /student/index.php/Home/User/User/login
+ERR: 非法操作:User
+
+[ 2017-05-21T14:10:57+08:00 ] ::1 /student/index.php/Home/Index/index
+ERR: 无法加载控制器:Index
+
+[ 2017-05-21T14:11:14+08:00 ] ::1 /student/index.php/Home/Stu/inquire
+ERR: 模板不存在:./student/Home/View/Stu/inquire.html
+
+[ 2017-05-21T14:24:33+08:00 ] ::1 /student/index.php/Home/Tea/inquire
+ERR: 模板不存在:./student/Home/View/Tea/cha.html
+
+[ 2017-05-21T14:24:58+08:00 ] ::1 /student/index.php/Home/Tea/inquire
+ERR: 模板不存在:./student/Home/View/Tea/cha.html
+
+[ 2017-05-21T14:25:00+08:00 ] ::1 /student/index.php/Home/Tea/add
+ERR: 模板不存在:./student/Home/View/Tea/add.html
+
+[ 2017-05-21T19:49:38+08:00 ] ::1 /student/index.php/
+ERR: 无法加载控制器:Index
+

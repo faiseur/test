@@ -1,0 +1,4 @@
+body{background: url('../image/3.jpg') 60%;}
+form{width: 30%;margin: 60px auto;text-align: center;color: #fff;position: relative;}
+form h4{font-weight: bolder;margin-bottom: 30px;}
+form div img{position: absolute;top: 12px;left: 230px;}

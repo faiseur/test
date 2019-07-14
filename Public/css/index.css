@@ -1,0 +1,8 @@
+body{margin-top: 30px;}
+
+.exit{position: relative;right: 30px;top: -40px;display: inline-block;float: right;}
+
+table{margin-top: 30px;text-align: center;}
+table th{text-align: center;}
+
+table .operate a{display: inline-block;margin-left: 20px;}
